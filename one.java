@@ -1,7 +1,7 @@
 public class hello world
 {
 	public static void main(string[]args){
-		system.out.println("siddaganga polytechnic tumkur");
+		system.out.println("siddaganga polytechnic tumkur1");
 	}
 
 }
